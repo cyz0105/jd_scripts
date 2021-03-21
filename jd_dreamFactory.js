@@ -57,7 +57,7 @@ url签名参数
  */
 const random = '4W8qjxcZ75rF';
 let token = 'tk01wbd5c1c0da8neEhwc1lMRmhrMJDQEKSm35w8QepM/PZtnnruo8QY4T2JPD5CUwTmkutC+cBvs4xib/6LvLK8N2JT';
-let fingerprint = 3220710875724161;
+let fingerprint = 7442077738336161;
 const appId = 10001;
 
 let fingerprintJD = '';
